@@ -1,6 +1,6 @@
 # Automated Fitness & Nutrition Report Generator
 
-#### Video Demo: [YOUR_YOUTUBE_VIDEO_LINK_HERE]
+#### Video Demo: https://youtu.be/TXIfEz0h1Ds
 
 ## Description
 
