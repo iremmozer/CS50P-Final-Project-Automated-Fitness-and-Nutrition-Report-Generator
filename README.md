@@ -72,7 +72,18 @@ Deterministic mathematical accuracy is critical when computing physiological par
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/iremmozer/CS50P-Final-Project-Automated-Fitness-and-Nutrition-Report-Generator.git](https://github.com/iremmozer/CS50P-Final-Project-Automated-Fitness-and-Nutrition-Report-Generator.git)
+git clone https://github.com/iremmozer/CS50P-Final-Project-Automated-Fitness-and-Nutrition-Report-Generator.git
 cd CS50P-Final-Project-Automated-Fitness-and-Nutrition-Report-Generator
 
+### 2. Install Required Dependencies
+```bash
+pip install -r requirements.txt
+​
+### 3. Run the Application
+```bash
+python project.py
+
+​### 4. Run the Test Suite
+```bash
+pytest test_project.py
 
